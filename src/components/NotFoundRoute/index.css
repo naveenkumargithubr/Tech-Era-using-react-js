@@ -1,0 +1,26 @@
+.notfound-bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 40px;
+}
+
+.notfound-img {
+  height: 250px;
+  width: 300px;
+  margin: 10px;
+}
+
+.page-notfound-heading {
+  margin-top: 0;
+  font-family: 'Consolas';
+  font-size: 25px;
+  color: #475569;
+}
+
+.desc-notfound-subhead {
+  margin-top: 0;
+  font-family: 'Consolas';
+  color: #64748b;
+}
